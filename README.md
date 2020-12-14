@@ -23,8 +23,9 @@ The original target of the Udacity project was to better understand the followin
 5. How were bootcamps assisting with increasing diversity in tech careers?
 
 What I explored is how the gender affects the questions based above. To this end, I have added in the new branch I created
-a notebook 'HowToBreakIntoTheFieldFemaleMale.ipynb' that explores the question 1 based on the gender and plan to do the same
-for the rest of the questions.
+a notebook 'HowToBreakIntoTheFieldFemaleMale.ipynb' that explores the 
+
+* How other developers recommend to break into the field depending on gender
 
 
 ## File Descriptions <a name="files"></a>
